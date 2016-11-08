@@ -1,5 +1,7 @@
 package rahmeier.karen.threaddemo;
 
+import org.apache.log4j.Logger;
+
 /**
  * Object that determines the rules of behavior for opening the door to hand out halloween candy
  * <p>
@@ -15,9 +17,26 @@ package rahmeier.karen.threaddemo;
  * <p>
  * Created by karen.rahmeier on 11/3/2016.
  */
-public class HalloweenDoorController {
+public class HalloweenChildCreator {
+    private final Logger log = Logger.getLogger(this.getClass());
 
-    //TODO create children
-    //watch tv (Riley thread sleep)
-    //count children (when 10, childGeneration thread sleep
+    public HalloweenChildCreator() {
+    }
+
+    public String createTrickOrTreater(int childNumber) {
+        return new String("Child " + childNumber);
+    }
+
+    public boolean stopCreatingTrickOrTreatChildren(int numberOfChildrenWaiting) {
+        if (numberOfChildrenWaiting >= 10) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+
+
 }
+
+

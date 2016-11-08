@@ -1,0 +1,41 @@
+2016-11-08 16:03:15,480 0    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - running the test
+2016-11-08 16:03:15,484 4    [Thread-0] INFO  rahmeier.karen.threaddemo.HalloweenChildGeneratorThread  - In HalloweenChildGeneratorThread.run
+2016-11-08 16:03:15,484 4    [Thread-1] INFO  rahmeier.karen.threaddemo.RunnableRiley  - in RunnableRiley.run
+2016-11-08 16:52:24,181 0    [Thread-0] INFO  rahmeier.karen.threaddemo.HalloweenChildGeneratorThread  - in HalloweenChildGeneratorThread.run
+2016-11-08 16:52:24,181 0    [Thread-1] INFO  rahmeier.karen.threaddemo.RunnableRiley  - in RunnableRiley.run
+2016-11-08 16:52:24,181 0    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - running the test
+2016-11-08 16:52:24,183 2    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - begin trick or treating
+2016-11-08 16:52:24,183 2    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - Riley watches tv
+2016-11-08 16:53:38,822 0    [Thread-0] INFO  rahmeier.karen.threaddemo.HalloweenChildGeneratorThread  - in HalloweenChildGeneratorThread.run
+2016-11-08 16:53:38,822 0    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - running the test
+2016-11-08 16:53:38,822 0    [Thread-1] INFO  rahmeier.karen.threaddemo.RunnableRiley  - in RunnableRiley.run
+2016-11-08 16:53:38,824 2    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - begin trick or treating
+2016-11-08 16:53:38,824 2    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - Riley watches tv
+2016-11-08 16:53:39,124 302  [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - start creating trick-or-treat children
+2016-11-08 16:53:39,124 302  [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - created Child 0
+2016-11-08 16:54:59,401 0    [Thread-1] INFO  rahmeier.karen.threaddemo.RunnableRiley  - in RunnableRiley.run
+2016-11-08 16:54:59,401 0    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - running the test
+2016-11-08 16:54:59,401 0    [Thread-0] INFO  rahmeier.karen.threaddemo.HalloweenChildGeneratorThread  - in HalloweenChildGeneratorThread.run
+2016-11-08 16:54:59,402 1    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - begin trick or treating
+2016-11-08 16:54:59,403 2    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - Riley watches tv
+2016-11-08 16:54:59,403 2    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - start creating trick-or-treat children
+2016-11-08 16:54:59,403 2    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - created Child 0
+2016-11-08 16:59:33,163 0    [Thread-0] INFO  rahmeier.karen.threaddemo.HalloweenChildGeneratorThread  - in HalloweenChildGeneratorThread.run
+2016-11-08 16:59:33,163 0    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - running the test
+2016-11-08 16:59:33,163 0    [Thread-1] INFO  rahmeier.karen.threaddemo.RunnableRiley  - in RunnableRiley.run
+2016-11-08 16:59:33,165 2    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - begin trick or treating
+2016-11-08 16:59:33,165 2    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - Riley watches tv
+2016-11-08 16:59:33,165 2    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - start creating trick-or-treat children
+2016-11-08 16:59:33,165 2    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - created Child 0
+2016-11-08 16:59:33,465 302  [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - between 1 and 10 kids are waiting, wake Riley up
+2016-11-08 17:03:20,171 0    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - running the test
+2016-11-08 17:03:20,172 1    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - begin trick or treating
+2016-11-08 17:26:18,845 0    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - running the test
+2016-11-08 17:26:18,846 1    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - begin trick or treating
+2016-11-08 17:26:55,542 0    [Thread-0] INFO  rahmeier.karen.threaddemo.HalloweenChildGeneratorThread  - in HalloweenChildGeneratorThread.run
+2016-11-08 17:26:55,542 0    [Thread-1] INFO  rahmeier.karen.threaddemo.RunnableRiley  - in RunnableRiley.run
+2016-11-08 17:26:55,542 0    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - running the test
+2016-11-08 17:26:55,544 2    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - begin trick or treating
+2016-11-08 17:26:55,544 2    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - Riley watches tv
+2016-11-08 17:26:55,544 2    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - start creating trick-or-treat children
+2016-11-08 17:26:55,544 2    [main] INFO  rahmeier.karen.threaddemo.RunnableRileyTest  - created Child 0

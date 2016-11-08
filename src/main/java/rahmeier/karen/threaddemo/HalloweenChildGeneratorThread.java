@@ -9,10 +9,12 @@ import org.apache.log4j.Logger;
  * <p>
  * Created by karen.rahmeier on 11/3/2016.
  */
-public class HalloweenChildGeneratorThread {
+public class HalloweenChildGeneratorThread extends Thread{
     private final Logger logger = Logger.getLogger(this.getClass());
 
     public void run() {
-        logger.info("In HalloweenChildGeneratorThread.run");
+        logger.info("in HalloweenChildGeneratorThread.run");
+
+
     }
 }
